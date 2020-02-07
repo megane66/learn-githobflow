@@ -1,1 +1,1 @@
-ptts 'Hello'
+ptts 'こんにちは'
